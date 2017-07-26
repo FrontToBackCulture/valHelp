@@ -68,16 +68,16 @@ metalsmith(__dirname)
             footer: 'partials/footer'
         }
     }))
-    .use(serve({
-        port: 8081,
-        verbose: true
-    }))
-    .use(watch({
-        paths: {
-            "${source}/**/*":true,
-            "layout/**/*": "**/*",
-        }
-    }))
+    //.use(serve({
+    //    port: 8081,
+    //    verbose: true
+    //}))
+    //.use(watch({
+    //    paths: {
+    //        "${source}/**/*":true,
+    //        "layout/**/*": "**/*",
+    //    }
+    //}))
     .build(function (err,files) {
         if (err) {
             console.log(err);
