@@ -1,0 +1,86 @@
+{{>header}}
+
+<body class="body-green">
+<div class="page-wrapper">
+    <!-- ******Header****** -->
+    <header id="header" class="header">
+        <div class="container">
+            <div class="branding">
+                <h1 class="logo">
+                    <a href="/index.html">
+                        <span aria-hidden="true" class="icon_documents_alt icon"></span>
+                        <span class="text-highlight"><a href="/index.html">{{ site.name }}</a></span><span class="text-bold">Docs</span>
+                    </a>
+                </h1>
+            </div><!--//branding-->
+            <ol class="breadcrumb">
+                {{#each collections}}
+
+                <li class="nav-item">
+                    <a class="nav-link" href="/{{@key}}/{{@key}}">{{@key}}</a>
+                </li>
+
+                {{/each}}
+            </ol>
+        </div><!--//container-->
+    </header><!--//header-->
+    <div class="doc-wrapper">
+        <div class="container">
+            <div id="doc-header" class="doc-header text-center">
+                <h1 class="doc-title"><i class="icon fa fa-paper-plane"></i>VAL HELP ME DOC</h1>
+                <div class="meta"><i class="fa fa-clock-o"></i> Last updated: Jan 25th, 2016</div>
+            </div><!--//doc-header-->
+            <div class="doc-body">
+                <div class="doc-content">
+                    <div class="content-inner">
+                        <section id="download-section" class="doc-section">
+                            <h2 class="section-title">Hello!</h2>
+                            <div class="section-block">
+                                <p>Welcome to VAL Help Me Doc. This site is meant to help you with all the queries you might have on VAL and hopefully it addresses your queries. If you find something missing or any incorrect information, feel free to get in contact with our faithful support at <a href="mailto:support@fronttobackculture.com.sg">support@fronttobackculture.com.sg</a>
+                                </p>
+                            </div>
+                        </section><!--//doc-section-->
+                        <section id="login-section" class="doc-section">
+                            <h2 class="section-title">Login</h2>
+                            <div id="step1"  class="section-block">
+                                <h3 class="block-title">Step 1: Get an ID</h3>
+                                <p>Get an ID to access VAL. Its as simple as that. If you are running on a on-premise instance reach out to <a href="mailto:support@fronttobackculture.com.sg">support@fronttobackculture.com.sg</a> to get your id created with a indication of the project you are in. Someone working in your premise will set it up for you.
+                                </p>
+                            </div><!--//section-block-->
+                            <div id="step2"  class="section-block">
+                                <h3 class="block-title">Step 2: Get In</h3>
+                                <p>Goto the URL 10.20.235.172:8080/ there you will find the login screen as follows: </p> <p><img src="/assets/img/common/valLogin.JPG" alt="login"></p>
+                                <p>Simply put in your work email id and the password that have been communicated to you.</p>
+                            </div><!--//section-block-->
+                            <div id="step3"  class="section-block">
+                                <h3 class="block-title">Step 3: Wah La! We are in!</h3>
+                                <p>You should see the below screen popping out in front of you. Its our broadcast page which we use to share or related information with you</p>
+                                <p><img src="/assets/img/landingpage/landingpage_broadcast.JPG" alt="login"></p>
+                            </div><!--//section-block-->
+                        </section><!--//doc-section-->
+                    </div><!--//content-inner-->
+                </div><!--//doc-content-->
+                <div class="doc-sidebar hidden-xs">
+                    <nav id="doc-nav">
+                        <ul id="doc-menu" class="nav doc-menu" data-spy="affix">
+                            <li><a class="scrollto" href="#download-section">Hello!</a></li>
+                            <li>
+                                <a class="scrollto" href="#installation-section">Login to VAL</a>
+                                <ul class="nav doc-sub-menu">
+                                    <li><a class="scrollto" href="#step1">Step One</a></li>
+                                    <li><a class="scrollto" href="#step2">Step Two</a></li>
+                                    <li><a class="scrollto" href="#step3">Step Three</a></li>
+                                </ul><!--//nav-->
+                            </li>
+
+                        </ul><!--//doc-menu-->
+                    </nav>
+                </div><!--//doc-sidebar-->
+            </div><!--//doc-body-->
+        </div><!--//container-->
+    </div><!--//doc-wrapper-->
+
+
+</div><!--//page-wrapper-->
+
+{{>footer}}
