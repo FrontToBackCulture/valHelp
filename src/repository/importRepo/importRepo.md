@@ -5,7 +5,7 @@ collection: Repository
 date: 2016-10-12
 ---
 
-Navigate to upload page
+Navigate to upload page (Test)
 ---
 This is easy peasy. If you have access to VAL Admin, you should be able to do it but navigating to this location and click VAL Admin
 
@@ -27,4 +27,3 @@ To upload via excel after selecting the repositories, navigate to the **Upload**
 Repository last upload
 ---
 If you ever get interested on the last import and the number of records imported, you can identified them via the buttom panel call **Previous Uploads**
-
