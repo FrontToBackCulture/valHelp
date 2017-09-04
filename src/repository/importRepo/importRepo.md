@@ -6,9 +6,9 @@ date: 2016-10-12
 ---
 
 Import Repository
-
-To Import data into VAL is extremely easy! Just follow these simple steps and it’ll work out!
 ---
+To Import data into VAL is extremely easy! Just follow these simple steps and it’ll work out!
+
 Import repository data from JIRA 
 
 1.	Click on the ‘Admin’ dropdown tab on the top menu.
