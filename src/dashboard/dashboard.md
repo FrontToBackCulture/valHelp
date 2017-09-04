@@ -7,8 +7,8 @@ date: 2016-10-12
 
 Dashboard, its all about pictures
 ---
-Getting to the dashboard page is as easy as below
+Getting to the dashboard page is as easy as below.
+
+Testing i am nicole
 
 ![landingpage-dashboard](/assets/img/dashboard/landingpage-dashboard.JPG)
-
-
