@@ -11,7 +11,7 @@ Import repository data from JIRA 
 ---
 
 1.	Click on the ‘Admin’ dropdown tab on the top menu.
-
+![](/assets/img/repository/Admin.JPG)
 2.	Click on ‘VAL Admin’.
 
 3.	Click on ‘Custom Repository’ dropdown tab and pick the repository that you want.
