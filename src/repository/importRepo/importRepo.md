@@ -5,25 +5,38 @@ collection: Repository
 date: 2016-10-12
 ---
 
-Navigate to upload page (Test)
+Import Repository
 ---
-This is easy peasy. If you have access to VAL Admin, you should be able to do it but navigating to this location and click VAL Admin
-
-![repo-valadmin](/assets/img/repository/repo-valadmin.JPG)
-
-Once in there, look for **Custom Repositories** on the left side panel and select the repository you will like to perform an import on.
-
-![repo-uploadcustom](/assets/img/repository/repo-uploadcustom.JPG)
-
-Repository import via Excel
---
-To upload via excel after selecting the repositories, navigate to the **Upload** tab.
-1. Select the repository table you will like to upload to.
-2. Browse for the file and make sure that the column sequence is the same as what have been highlighted in **Table Columns**
-3. Click Upload Data
-
-![repo-uploadexcel](/assets/img/repository/repo_uploadexcel.JPG)
-
-Repository last upload
+To Import data into VAL is extremely easy! Just follow these simple steps and it’ll work out!
 ---
-If you ever get interested on the last import and the number of records imported, you can identified them via the buttom panel call **Previous Uploads**
+Import repository data from JIRA 
+
+1.	Click on the ‘Admin’ dropdown tab on the top menu.
+![](/assets/img/repository/Admin.JPG)
+2.	Click on ‘VAL Admin’.
+![](/assets/img/repository/VAL Admin.JPG)
+3.	Click on ‘Custom Repository’ dropdown tab and pick the repository that you want.
+![](/assets/img/repository/Custom repo.JPG)
+4.	Click the Upload tab.
+![](/assets/img/repository/Upload.JPG)
+5.	Choose a repository.
+![](/assets/img/repository/Repository.JPG)
+6.	Click on ‘Import from JIRA.
+![](/assets/img/repository/upload file.JPG)
+
+---
+Import repository data from Excel
+
+1.	Click on the ‘Admin’ dropdown tab on the top menu.
+![](/assets/img/repository/Admin.JPG)
+2.	Click on ‘VAL Admin’.
+![](/assets/img/repository/VAL Admin.JPG)
+3.	Click on ‘Custom Repository’ dropdown tab and pick the repository that you want.
+![](/assets/img/repository/Custom repo.JPG)
+4.	Click the Upload tab.
+![](/assets/img/repository/Upload.JPG)
+5.	Click on ‘Browse’
+![](/assets/img/repository/browse.JPG)
+6.	Choose the excel file that you would like to import.
+7.	Click on ‘Import Data’.
+![](/assets/img/repository/upload file.JPG)
