@@ -3,8 +3,7 @@ layout: repository.html
 title: "View Repository"
 collection: Repository
 date: 2016-10-12
----
-![](/assets/vids/dashboard/Search Repo.mp4)
+
 ---
 Search Repository Data
 1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
