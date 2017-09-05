@@ -8,4 +8,5 @@ date: 2016-10-12
 2.	Click on ‘VAL Admin’.
 3.	Click on ‘Custom Repository’ dropdown tab and pick the repository that you want.
 4.	Select a Repository.
-5.  Click on 'Delete Data'
+5.  Click on 'Delete '
+6.  The data is now all deleted!
