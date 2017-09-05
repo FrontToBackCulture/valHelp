@@ -6,7 +6,7 @@ date: 2016-10-12
 ---
 Search Repository Data
 1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
-2.  Click on the 'Repository' dropdown.
+2.  Click on the 'Repository' dropdown and choose the repository you would like to see.
 ---
 Search Repository Data by Column
 1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.

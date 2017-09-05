@@ -4,9 +4,8 @@ title: "Update Traceability Linkage"
 collection: Repository
 date: 2016-10-12
 ---
-1.	Click on the ‘Admin’ dropdown tab on the top menu.
-2.	Click on ‘VAL Admin’.
-3.	Click on ‘Repository Type’ tab.
-4.	Select a Repository Source and a Source column.
-5.	Select an associated Repository and Column that you would like to link.
-6.	Click on ‘Add/Update’.
+1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
+2.	Using the Search Bar, search for the repository you want to search for.
+3.	Click on the ‘edit’ icon.
+4.	Make changes where you want to make them.
+5.	Click on ‘Update’ to save your changes.
