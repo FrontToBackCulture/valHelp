@@ -9,4 +9,3 @@ date: 2016-10-12
 3.	Click on the ‘edit’ icon.
 4.	Make changes where needed.
 5.	Click on ‘Update’ to save your changes.
-
