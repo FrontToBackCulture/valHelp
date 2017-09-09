@@ -10,7 +10,7 @@ date: 2016-10-12
 <td width="5px"></td>
 <td width="500px">
 <video width="500" height="375" controls>
-	<source src="/assets/video/How_to_Add_a_Repository_Record.mp4 type="video/mp4">
+	<source src="/assets/video/How_to_Add_a_Repository_Record.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 </td>
