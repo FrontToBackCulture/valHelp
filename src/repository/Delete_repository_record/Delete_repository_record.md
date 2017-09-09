@@ -5,7 +5,7 @@ collection: Repository
 date: 2016-10-12
 ---
 <video width=“320” height=“240” controls>
-	<source src=“/assets/Vids/How_to_Delete_a_Repository_Record.mp4” type=”video/mp4”>
+	<source src=“/assets/Vids/How_to_Delete_a_Repository_Record.mp4” type="video/mp4”>
 Your browser does not support the video tag.
 </video>
 
