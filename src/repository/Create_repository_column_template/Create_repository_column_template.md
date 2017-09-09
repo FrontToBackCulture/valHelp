@@ -1,6 +1,6 @@
 ---
 layout: repository.html
-title: "Create Repository Column Template"
+title: "Create New Column Preference"
 collection: Repository
 date: 2016-10-12
 ---
@@ -9,4 +9,4 @@ date: 2016-10-12
 3.	Select the columns that you would like to see.
 4.	Click on ‘Save Column’
 5. Name your new column template.
-6. Click 'Save' to save your new column template!
+6. Click 'Save' to save your new column preference!
