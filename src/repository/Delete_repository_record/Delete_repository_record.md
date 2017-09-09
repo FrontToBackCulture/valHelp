@@ -4,11 +4,6 @@ title: "Delete Repository Record"
 collection: Repository
 date: 2016-10-12
 ---
-<video controls="controls">
-  <source type="video/mp4" src="How to Delete a Repository Record.mp4.mp4"></source>
-  <source type="video/webm" src="How to Delete a Repository Record.mp4.webm"></source>
-  <p>Your browser does not support the video element.</p>
-</video>
 
 1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
 2.	Using the Search Bar, search for the repository you want to search for.
