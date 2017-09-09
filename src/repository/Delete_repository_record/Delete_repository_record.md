@@ -4,6 +4,7 @@ title: "Delete Repository Record"
 collection: Repository
 date: 2016-10-12
 ---
+</video>
 <video width=“320” height=“240” controls>
 	<source src=“/assets/Vids/How_to_Delete_a_Repository_Record.mp4” types”video/mp4”>
 Your browser does not support the video tag.
