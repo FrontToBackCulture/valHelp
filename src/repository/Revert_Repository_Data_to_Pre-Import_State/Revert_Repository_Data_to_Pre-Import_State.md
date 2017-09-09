@@ -1,6 +1,6 @@
 ---
 layout: repository.html
-title: "Revert Repository Data to Pre-Import State"
+title: "Revert to Pre-Import State"
 collection: Repository
 date: 2016-10-12
 ---
