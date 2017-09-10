@@ -5,10 +5,35 @@ collection: Repository
 date: 2016-10-12
 
 ---
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/How_to_Search_Repository_Data.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
 Search Repository Data
 1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
 2.  Click on the 'Repository' dropdown and choose the repository you would like to see.
 ---
+
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/How_to_Search_Repository_Data_By_Column.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
 Search Repository Data by Column
 1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
 2.	Click on the ‘Filter Search’ dropdown to choose which column you would like to search by.
@@ -16,6 +41,18 @@ Search Repository Data by Column
 4.	Now watch the results appear!
 
 ---
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/How_to_Search_Repository_Data_Across_All_Columns.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
 Search Repository Data across All Columns
 1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
 2.	Click on the search bar.
