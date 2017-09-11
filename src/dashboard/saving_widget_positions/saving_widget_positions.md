@@ -38,7 +38,6 @@ Save a Widget Position (Indivisual)
 <td width="50px"></td>
 </tr>
 </table>
-
 Save all Widgets' Positions
 1. Click on the 'Tools'.
 2. Once the tools menu opens, click on ‘Save all widgets’ (to save all widgets on the dashboard).
