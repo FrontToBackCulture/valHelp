@@ -6,7 +6,18 @@ date: 2016-10-12
 ---
 *Bar Chart*
 
-
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/How_to_create_a_bar_chart.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
 1. Click on the 'tools' dropdown.
 2. Select 'Add Chart'
 3. Click on the dots on the top right of the chart.
