@@ -21,7 +21,6 @@ date: 2016-10-12
 12. Choose a criteria.
 13. Choose a repository field.
 14. Choose a field to filter.
-15. Choose which repository you would like to group the data by.
 16. Click 'save'.
 
 ---
