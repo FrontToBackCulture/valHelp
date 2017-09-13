@@ -1,6 +1,6 @@
 ---
 layout: dashboard.html
-title: "Creating a Panel"
+title: "Add a Panel"
 collection: Dashboard
 date: 2016-10-12
 ---

@@ -1,6 +1,6 @@
 ---
 layout: dashboard.html
-title: "Create A Chart"
+title: "Add a Chart"
 collection: Dashboard
 date: 2016-10-12
 ---
