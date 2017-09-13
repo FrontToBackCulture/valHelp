@@ -4,7 +4,25 @@ title: "Create A Chart"
 collection: Dashboard
 date: 2016-10-12
 ---
-Bar Chart
+*Bar Chart*
+
+
+1. Click on the 'tools' dropdown.
+2. Select 'Add Chart'
+3. Click on the dots on the top right of the chart.
+4. Name the Bar Chart.
+5. Click on the Chart type dropdown and select 'Bar Chart'.
+6. Choose the Bar Chart Type.
+7. Choose whether you want it to be horizontal or vertical.
+8. Choose whether you want your chart to be grouped or stacked.
+9. Choose an extraction type.
+10. Choose a repository.
+11. Choose a field.
+12. Choose a criteria.
+13. Choose a repository field.
+14. Choose a field to filter.
+15. Choose which repository you would like to group the data by.
+16. Click 'save'.
 
 ---
 *Line Chart*
@@ -25,7 +43,7 @@ Bar Chart
 2. Select 'Add Chart'
 3. Click on the dots on the top right of the chart.
 4. Name the Line Chart.
-5. Click on the Chart type dropdown and select 'Bar Chart'.
+5. Click on the Chart type dropdown and select 'Line Chart'.
 6. Name the line.
 7. Choose a line colour.
 8. Choose a line type.
@@ -38,7 +56,7 @@ Bar Chart
 15. Repeat steps 8-11.
 16. Click save.
 ---
-Pivot Table
+*Pivot Table*
 
 ---
-Custom Table
+*Pie Chart*
