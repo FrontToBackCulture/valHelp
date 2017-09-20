@@ -4,6 +4,7 @@ title: "Rename Dashboard"
 collection: Dashboard
 date: 2016-10-12
 ---
+_Made a mistake in the naming? Maybe you missed a letter. It's perfectly fine because, with VAL, you can easily rename the dashboard._
 
 <table>
 <tr>

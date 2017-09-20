@@ -4,6 +4,7 @@ title: "Create Dashboard"
 collection: Dashboard
 date: 2016-10-12
 ---
+_Before you can begin customising your dashboard, you need to know how to create one._
 
 <table>
 <tr>
@@ -26,6 +27,6 @@ date: 2016-10-12
 4.	Another pop-up will now appear, confirming that you have created your new dashboard view.
 
 Once you have created the dashboard click on the below links to continue with another action.
-- Rename Dashboard [Here](/dashboard/viewdashboard/viewdashboard/)
-- Delete Dashboard (Here)
-- Create Dashboard Widget (Here)
+- [Rename Dashboard](/dashboard/b_Rename_Dashboard/Rename_Dashboard.md)
+- [Delete Dashboard](/dashboard/c_deleting_dashboard/deleting_dashboard.md)
+- [Create Dashboard Widget](/dashboard/d_Creating_Panel/Creating_Panel.md)
