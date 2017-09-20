@@ -11,7 +11,7 @@ After entering the dashboard page, you are lucky if the project, phase and date 
 <td width="50px"></td>
 <td width="700px">
 <video width="700" height="525" controls>
-	<source src="/assets/video/How_to_view_your_dashboard.mp4" type="video/mp4">
+	<source src="/assets/video/Dashboard/How_to_view_your_dashboard.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 </td>
