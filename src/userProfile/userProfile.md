@@ -17,4 +17,4 @@ Navigate to the user profile by going to the user icon on the top right hand cor
 And you will be greeted with this screen. The rest is pretty self explanatory.
 
 
-![userprofile](/assets/img/userProfile/userprofile.JPG)
+![userprofile](/assets/img/userProfile/user_profile.JPG)
