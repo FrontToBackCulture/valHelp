@@ -1,7 +1,7 @@
 ---
 layout: repository.html
 title: "Revert to Pre-Import State"
-collection: Repository
+collection: UserProfile
 date: 2016-10-12
 ---
 
