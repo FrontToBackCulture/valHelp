@@ -1,10 +1,11 @@
 ---
 layout: repository.html
-title: "Deleting a User"
+title: "Update a User"
 collection: UserProfile
 date: 2016-10-12
 
 ---
+_Has a User been promoted? Need to give that someone more acesss? Or maybe you need to reset his or her password. Simply follow the steps below to make any changes to a user on VAL._
 
 <table>
 <tr>
