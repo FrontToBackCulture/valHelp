@@ -38,7 +38,7 @@ Import repository data from Excel
 <td width="50px"></td>
 <td width="700px">
 <video width="700" height="525" controls>
-	<source src="/assets/video/How_to_Import_Repository_via_Excel.mp4" type="video/mp4">
+	<source src="/assets/video/Repo/How_to_Import_Repository_via_Excel.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 </td>

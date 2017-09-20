@@ -12,7 +12,7 @@ _Before you can send your email to another user or even start using VAL, you nee
 <td width="50px"></td>
 <td width="700px">
 <video width="700" height="525" controls>
-	<source src="/assets/video/How_to_add_new_user.mp4" type="video/mp4">
+	<source src="/assets/video/UserProfile/How_to_add_new_user.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 </td>

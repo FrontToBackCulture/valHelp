@@ -11,7 +11,7 @@ _Upload something and realise you made a fatal mistake? Well, not to worry. With
 <td width="50px"></td>
 <td width="700px">
 <video width="700" height="525" controls>
-	<source src="/assets/video/How_to_revert_repository_to_preimport_state.mp4" type="video/mp4">
+	<source src="/assets/video/UserProfile/How_to_revert_repository_to_preimport_state.mp4" type="video/mp4">
 	Your browser does not support the	 video tag.
 </video>
 </td>
