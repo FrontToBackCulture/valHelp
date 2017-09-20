@@ -8,6 +8,19 @@ date: 2016-10-12
 ---
 Welcome to the Dashboard!
 
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/Dashboard/Dashboard.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
+
 Here, you can simply add a variety of colourful charts and tables to help you keep track of your many projects!
 
 ---
