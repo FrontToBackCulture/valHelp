@@ -1,5 +1,5 @@
 ---
-layout: repository.html
+layout: userProfile.html
 title: "Change Your Default Setting"
 collection: UserProfile
 date: 2016-10-12

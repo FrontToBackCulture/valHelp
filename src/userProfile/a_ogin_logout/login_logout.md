@@ -1,5 +1,5 @@
 ---
-layout: repository.html
+layout: userProfile.html
 title: "Login/Logout"
 collection: UserProfile
 date: 2016-10-12

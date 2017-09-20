@@ -1,5 +1,5 @@
 ---
-layout: repository.html
+layout: userProfile.html
 title: "Adding a New User"
 collection: UserProfile
 date: 2016-10-12
