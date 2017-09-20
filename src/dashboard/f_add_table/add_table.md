@@ -1,6 +1,6 @@
 ---
 layout: dashboard.html
-title: "Export Dashboard to PDF"
+title: "Add Table"
 collection: Dashboard
 date: 2016-10-12
 ---
