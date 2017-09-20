@@ -10,7 +10,7 @@ date: 2016-10-12
 <td width="50px"></td>
 <td width="700px">
 <video width="700" height="525" controls>
-	<source src="/assets/video/Creating_Repo_Column_Preference.mp4" type="video/mp4">
+	<source src="/assets/video/Repo/Creating_Repo_Column_Preference.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 </td>
