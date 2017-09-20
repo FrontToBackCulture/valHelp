@@ -4,6 +4,7 @@ title: "Revert to Pre-Import State"
 collection: UserProfile
 date: 2016-10-12
 ---
+_Upload something and realise you made a fatal mistake? Well, not to worry. With VAL, you can simply revert the data back to how it was before it's last update!_
 
 <table>
 <tr>
@@ -11,7 +12,7 @@ date: 2016-10-12
 <td width="700px">
 <video width="700" height="525" controls>
 	<source src="/assets/video/How_to_revert_repository_to_preimport_state.mp4" type="video/mp4">
-	Your browser does not support the video tag.
+	Your browser does not support the	 video tag.
 </video>
 </td>
 <td width="50px"></td>

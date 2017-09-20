@@ -5,6 +5,11 @@ collection: UserProfile
 date: 2016-10-12
 
 ---
+_Tired of having to manually choose your project, DFT(Data Family Tree) and Phase? Well, look no further. You will, now, be able to change your default settings to suit your needs._
+
+ ![](/assets/img/userProfile/phase_project_date.JPG)
+ ![](/assets/img/userProfile/project_phase_dft.JPG)
+---
 *DFT (Data Family Tree)*
 
 <table>
