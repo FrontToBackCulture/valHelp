@@ -5,6 +5,7 @@ collection: UserProfile
 date: 2016-10-12
 
 ---
+_Add the wrong person? Well, if you need to remove someone from the system, you can easily do so by following the steps below._
 
 <table>
 <tr>

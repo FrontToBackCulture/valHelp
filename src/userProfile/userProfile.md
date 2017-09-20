@@ -5,16 +5,12 @@ collection: UserProfile
 date: 2016-10-12
 ---
 
-Make life easier
----
+*Make life easier*
 
-Navigate to the user profile by going to the user icon on the top right hand corner and click the **Profile** option
+ ![userprofile](/assets/img/userProfile/user_profile.JPG)
 
+ Welcome to the User Profile!
 
-![repo-userprofile](/assets/img/userProfile/repo-userprofile.JPG)
+ Here, you can learn to customise your workspace and set your own default displays!
 
-
-And you will be greeted with this screen. The rest is pretty self explanatory.
-
-
-![userprofile](/assets/img/userProfile/user_profile.JPG)
+ 

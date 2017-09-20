@@ -5,6 +5,7 @@ collection: UserProfile
 date: 2016-10-12
 
 ---
+_Before you can send your email to another user or even start using VAL, you need to create a new user._
 
 <table>
 <tr>
@@ -29,3 +30,6 @@ date: 2016-10-12
 8.  Choose the account type that your new user would have.
 *The account type will determine how much access this person has.*
 9.  Click 'save'.
+
+---
+*Account Types*
