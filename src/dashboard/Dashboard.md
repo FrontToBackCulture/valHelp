@@ -27,8 +27,8 @@ Here, you can simply add a variety of colourful charts and tables to help you ke
 Features:
 
 A. Basics
-  1. [Create A Dashboard](/dashboard/a_createDashboard/createDashboard.md)
-  2. [Rename A Dashboard](/dashboard/b_Rename_Dashboard/Rename_Dashboard.md)
+  1. [Create A Dashboard](src="assets/dashboard/a_createDashboard/createDashboard.md")
+  2. [Rename A Dashboard](/dashboard/b_Rename_Dashboard/Rename_Dashboard)
   3. [Delete A Dashboard](/dashboard/c_deleting_dashboard/deleting_dashboard.md)
   4. [View Dashboard](/dashboard/c_viewDashboard/viewDashboard.md)
 
