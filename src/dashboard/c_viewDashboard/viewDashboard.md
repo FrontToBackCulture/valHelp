@@ -4,7 +4,9 @@ title: "Getting Started"
 collection: Dashboard
 date: 2016-10-12
 ---
-After entering the dashboard page, you are lucky if the project, phase and date has already automatically been chosen for you. Unfortunately, not all of us are that lucky so this page will teach you how to begin viewing your easily customisable dashboard. If your values are not autopopulated, click on the link here.
+_After entering the dashboard page, you are lucky if the project, phase and date has already automatically been chosen for you. Unfortunately, not all of us are that lucky so this page will teach you how to begin viewing your easily customisable dashboard. If your values are not autopopulated, click on the link here._
+
+
 
 <table>
 <tr>
