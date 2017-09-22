@@ -6,9 +6,8 @@ date: 2016-10-12
 ---
 
 **Make life easier**
+---
+Welcome to the User Profile!
 
- ![userprofile](/assets/img/userProfile/user_profile.JPG)
-
- Welcome to the User Profile!
-
- Here, you can learn to customise your workspace and set your own default displays!
+Here, you can learn to customise your workspace and set your own default displays!
+---
