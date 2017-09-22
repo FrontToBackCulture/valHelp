@@ -4,6 +4,7 @@ title: "Add a Text Chart"
 collection: Dashboard
 date: 2016-10-12
 ---
+_Need to leave a message for the team? Or prehaps, you just want to write a summary of the project. Either ways both can be easily be done by adding a text chart. Simply follow the steps below to add one._
 
 <table>
 <tr>

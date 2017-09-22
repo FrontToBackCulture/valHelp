@@ -4,6 +4,8 @@ title: "Add Table"
 collection: Dashboard
 date: 2016-10-12
 ---
+_Need to present your data in a neat and legible way? Add a Table. The table will help you keep your data organised in columns and rows for easy reading and analysis._
+
 <table>
 <tr>
 <td width="50px"></td>
