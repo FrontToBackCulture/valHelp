@@ -24,7 +24,7 @@ Welcome to the Dashboard!
 Here, you can simply add a variety of colourful charts and tables to help you keep track of your many projects!
 
 ---
-Features:
+**Features:**
 
 A. Basics
   1. [Create A Dashboard](/assets/dashboard/a_createDashboard/createDashboard.md)
