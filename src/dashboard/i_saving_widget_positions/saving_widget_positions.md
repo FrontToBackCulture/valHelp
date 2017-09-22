@@ -4,10 +4,9 @@ title: "Saving Widget Positions"
 collection: Dashboard
 date: 2016-10-12
 ---
-_There are two ways to save the position of your widgets. You could choose to either save each widget indivisually or save them all together._
+_After creating your widgets and customising your very own dashboard, it is important that you save your widgets. With VAL you can indivisually save it or save all of them at once._
 
 ---
-
 <table>
 <tr>
 <td width="50px"></td>
