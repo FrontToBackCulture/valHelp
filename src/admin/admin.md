@@ -28,6 +28,7 @@ Welcome to the Admin!
 
 A. Basics
   1. [Login/Logout](/admin/a_createDashboard/createDashboard.md)
+
 B. User
   1. [Create A User](/admin/a_createDashboard/createDashboard.md)
   2. [Update A User](/dashboard/b_Rename_Dashboard/Rename_Dashboard)
