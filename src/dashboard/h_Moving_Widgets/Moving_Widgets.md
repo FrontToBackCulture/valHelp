@@ -5,6 +5,8 @@ collection: Dashboard
 date: 2016-10-12
 ---
 
+**Resizing the Widget**
+
 <table>
 <tr>
 <td width="50px"></td>
@@ -17,10 +19,10 @@ date: 2016-10-12
 <td width="50px"></td>
 </tr>
 </table>
-Resizing the Widget
 1.	Click on the widget and drag it to resize the chart.
 
 ---
+**Moving the Widget**
 
 <table>
 <tr>
@@ -34,5 +36,4 @@ Resizing the Widget
 <td width="50px"></td>
 </tr>
 </table>
-Moving the Widget
 1.	Drag widget across the dashboard to move them to your desired location.
