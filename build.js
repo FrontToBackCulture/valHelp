@@ -39,6 +39,12 @@ metalsmith(__dirname)
             sortBy: 'date',
             reverse: true,
             refer:false
+        },
+        Admin:{
+            pattern: ['admin/**/.md','admin/**/**/.md','admin/**/**/.html'],
+            sortBy: 'date',
+            reverse: true,
+            refer:false
         }
     }))
     .use(dirHierarchy({

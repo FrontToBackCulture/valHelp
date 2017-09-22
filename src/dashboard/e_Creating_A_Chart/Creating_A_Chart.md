@@ -4,7 +4,9 @@ title: "Add a Chart"
 collection: Dashboard
 date: 2016-10-12
 ---
-*Bar Chart*
+**Bar Chart**
+
+_Need to compare data side by side? If so, the bar graph is the widget for you. The bar graph will allow you to present categorical data with proportional heights and lengths - Perfect for making comparisons! Now, just follow these simple steps to create your very own bar graph._
 
 <table>
 <tr>
@@ -35,7 +37,9 @@ date: 2016-10-12
 16. Click 'save'.
 
 ---
-*Line Chart*
+**Line Chart**
+
+_Need to check in on the progress made to a project over time? Well, you can add a line chart to find out! Line charts are used to compare one or more pieces of data over a period of time. So, simply follow these simple steps to add your very own line chart._
 
 <table>
 <tr>
@@ -66,7 +70,9 @@ date: 2016-10-12
 15. Repeat steps 8-11.
 16. Click save.
 ---
-*Pivot Table*
+**Pivot Table**
+
+_Need to reorganise or summarise your data table? You can just use a Pivot Table instead. A pivot table is used to summarise and/or reorganise your data table without actually changing the data. This table allows you to easily look at your desired data and analyse it without any unnecessary information. Just follow these simple steps to create this table._
 
 <table>
 <tr>
@@ -98,7 +104,9 @@ date: 2016-10-12
 16. Click save.
 
 ---
-*Pie Chart*
+**Pie Chart**
+
+_
 
 <table>
 <tr>
