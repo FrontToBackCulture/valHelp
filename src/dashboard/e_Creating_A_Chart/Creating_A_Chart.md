@@ -72,7 +72,7 @@ _Need to check in on the progress made to a project over time? Well, you can add
 ---
 **Pivot Table**
 
-_Need to reorganise or summarise your data table? You can just use a Pivot Table instead. A pivot table is used to summarise and/or reorganise your data table without actually changing the data. This table allows you to easily look at your desired data and analyse it without any unnecessary information. Just follow these simple steps to create this table._
+_Don't have time to sift through a long list of data on a table? You can just use a Pivot Table instead. A pivot table is used to summarise and/or reorganise your data table without actually changing the data. This table allows you to easily look at your desired data and analyse it without any unnecessary information. Just follow these simple steps to create this table._
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ _Need to reorganise or summarise your data table? You can just use a Pivot Table
 ---
 **Pie Chart**
 
-_
+_Need to view the percentage of work done? Well, you can just add a pie chart. The pie chart is good for efficiently showcasing data in percentage for each catgory. Just follow these simple steps to add a pie chart!_
 
 <table>
 <tr>
