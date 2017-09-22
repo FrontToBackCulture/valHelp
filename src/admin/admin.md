@@ -26,7 +26,9 @@ Welcome to the Admin!
 ---
 **Features:**
 
-A. User
+A. Basics
+  1. [Login/Logout](/admin/a_createDashboard/createDashboard.md)
+B. User
   1. [Create A User](/admin/a_createDashboard/createDashboard.md)
   2. [Update A User](/dashboard/b_Rename_Dashboard/Rename_Dashboard)
   3. [Delete A User](/dashboard/c_deleting_dashboard/deleting_dashboard.md)
