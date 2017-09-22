@@ -1,7 +1,7 @@
 ---
-layout: userProfile.html
+layout: admin.html
 title: "Login/Logout"
-collection: UserProfile
+collection: Admin
 date: 2016-10-12
 
 ---
