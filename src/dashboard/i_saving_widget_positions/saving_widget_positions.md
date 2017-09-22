@@ -4,7 +4,7 @@ title: "Saving Widget Positions"
 collection: Dashboard
 date: 2016-10-12
 ---
-There are two ways to save the position of your widgets. You could choose to either save each widget indivisually or save them all together.
+_There are two ways to save the position of your widgets. You could choose to either save each widget indivisually or save them all together._
 
 ---
 

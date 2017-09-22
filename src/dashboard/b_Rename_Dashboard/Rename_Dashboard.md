@@ -4,7 +4,7 @@ title: "Rename Dashboard"
 collection: Dashboard
 date: 2016-10-12
 ---
-_Made a mistake in the naming? Maybe you missed a letter. It's perfectly fine because, with VAL, you can easily rename the dashboard._
+_Misspelt a name?  Or, maybe you didn’t know what to name it at the point. Well, you can just change the name of the Dashboard anytime with these simple steps._
 
 <table>
 <tr>
