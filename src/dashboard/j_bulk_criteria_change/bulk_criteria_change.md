@@ -1,6 +1,6 @@
 ---
 layout: dashboard.html
-title: "Add a Text Chart"
+title: "Bulk Criteria Change"
 collection: Dashboard
 date: 2016-10-12
 ---
