@@ -4,6 +4,7 @@ title: "Export Dashboard to PDF"
 collection: Dashboard
 date: 2016-10-12
 ---
+_Now, I guess there will come a time when you want to present your dashboard to someone but giving them the link may not be the best option or even a plausible one. So, it’s always best to export it as a PDF._
 
 <table>
 <tr>
