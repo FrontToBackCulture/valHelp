@@ -27,10 +27,15 @@ Welcome to the Admin!
 **Features:**
 
 A. Basics
-  1. [Login/Logout](/admin/a_createDashboard/createDashboard.md)
+  1. [Login/Logout](/admin/a_createDashboard/createDashboard)
 
 B. User
-  1. [Create A User](/admin/a_createDashboard/createDashboard.md)
+  1. [Create A User](/admin/a_createDashboard/createDashboard)
   2. [Update A User](/dashboard/b_Rename_Dashboard/Rename_Dashboard)
-  3. [Delete A User](/dashboard/c_deleting_dashboard/deleting_dashboard.md)
-  4. [Give A User Administrative Rights](/admin/a_createDashboard/createDashboard.md)
+  3. [Delete A User](/dashboard/c_deleting_dashboard/deleting_dashboard)
+  4. [Give A User Administrative Rights](/admin/a_createDashboard/createDashboard)
+
+C. Project
+	1. [Add A Project](/admin/e_creating_a_project/creating_a_project)
+	2. [Update A Project](/admin/f_update_project/update_project)
+	3. [Delete A Project](/admin/g_delete_project/delete_project)
