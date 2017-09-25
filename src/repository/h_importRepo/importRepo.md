@@ -4,7 +4,9 @@ title: "Import Repository"
 collection: Repository
 date: 2016-10-12
 ---
-To Import data into VAL is extremely easy! Just follow these simple steps and it’ll work out!
+_To Import data into VAL is extremely easy! Just follow these simple steps and it’ll work out!_
+
+_if you have made a mistake importing, click on this link to see how to_ [Revert to Pre-Import State](UserProfile/g_Revert_Data_to_Pre-Import_State/Revert_Data_to_Pre-Import_State).
 
 ---
 Import repository data from JIRA 
