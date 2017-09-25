@@ -1,9 +1,11 @@
 ---
 layout: repository.html
-title: "Create Repository Data Filter"
+title: "Repository Data Filter"
 collection: Repository
 date: 2016-10-12
 ---
+**Create a Repository Data Filter**
+
 <table>
 <tr>
 <td width="50px"></td>
@@ -23,4 +25,21 @@ date: 2016-10-12
 5.  Name you filter.
 6.  Click Save to save your new filter.
 
-*To access your filter, just click on the filter dropdown tab.
+---
+**Apply Repository Data Filter**
+
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/Repo/How_to_apply_data_filter.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
+1. Click on the 'Filter' dropdown.
+2. Choose a filter.
+3. You have applied your filter to the repositories table.
