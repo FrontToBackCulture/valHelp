@@ -39,3 +39,8 @@ C. Project
 	1. [Add A Project](/admin/e_creating_a_project/creating_a_project)
 	2. [Update A Project](/admin/f_update_project/update_project)
 	3. [Delete A Project](/admin/g_delete_project/delete_project)
+
+D. Phase
+	1. [Add A Phase](/admin/h_add_phase/creating_a_phase)
+	2. [Update A Phase](/admin/i_update_phase/update_phase)
+	3. [Delete A Phase](/admin/j_delete_phase/delete_phase)

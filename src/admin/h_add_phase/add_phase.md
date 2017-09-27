@@ -1,6 +1,6 @@
 ---
 layout: admin.html
-title: "Add Phase"
+title: "Add A Phase"
 collection: Admin
 date: 2016-10-12
 

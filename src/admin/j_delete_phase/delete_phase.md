@@ -1,6 +1,6 @@
 ---
 layout: admin.html
-title: "Delete A Project"
+title: "Delete A Phase"
 collection: Admin
 date: 2016-10-12
 
