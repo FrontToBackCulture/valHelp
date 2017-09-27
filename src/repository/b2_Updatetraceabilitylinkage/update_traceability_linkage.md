@@ -4,7 +4,6 @@ title: "Update Traceability Linkage"
 collection: Repository
 date: 2016-10-12
 ---
-_It’s okay! Lots of people make mistakes and when they do, they can’t delete them but you can! Just follow the simple steps below to delete your repository record._
 
 <table>
 <tr>
