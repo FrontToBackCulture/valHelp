@@ -4,6 +4,7 @@ title: "Add Repository Record"
 collection: Repository
 date: 2016-10-12
 ---
+_Need to add a new data into the system? Well, you just have to follow these simple steps to do it._
 
 <table>
 <tr>

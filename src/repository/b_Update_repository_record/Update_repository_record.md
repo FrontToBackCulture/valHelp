@@ -4,6 +4,7 @@ title: "Update Repository Record"
 collection: Repository
 date: 2016-10-12
 ---
+_Misspelt a name?  Or, maybe you didn’t know what to name it at the point. Well, you can just change the name of the repository record anytime with these simple steps._
 
 <table>
 <tr>
