@@ -4,6 +4,7 @@ title: "Delete All Repository Data"
 collection: Repository
 date: 2016-10-12
 ---
+_What if you need to an entire repository? Well, the good news is : there's no need to delete each record indivisually. Simply follow these steps to delete an entire repository at once._
 
 <table>
 <tr>

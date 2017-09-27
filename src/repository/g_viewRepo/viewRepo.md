@@ -5,6 +5,10 @@ collection: Repository
 date: 2016-10-12
 
 ---
+_Looking for a single record in a sea of repository is ardous and also quite impossible. As such, VAL allows you to search for the records you need. Simply read the steps below to find out how._
+
+**Search Repository Data**
+
 <table>
 <tr>
 <td width="50px"></td>
@@ -17,10 +21,11 @@ date: 2016-10-12
 <td width="50px"></td>
 </tr>
 </table>
-Search Repository Data
 1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
 2.  Click on the 'Repository' dropdown and choose the repository you would like to see.
 ---
+
+**Search Repository Data by Column**
 
 <table>
 <tr>
@@ -34,7 +39,6 @@ Search Repository Data
 <td width="50px"></td>
 </tr>
 </table>
-Search Repository Data by Column
 1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
 2.	Click on the ‘Filter Search’ dropdown to choose which column you would like to search by.
 3.	Select a column name and click on the search box beside it.

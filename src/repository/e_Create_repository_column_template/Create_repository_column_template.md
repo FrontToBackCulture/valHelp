@@ -4,6 +4,8 @@ title: "New Column Preference"
 collection: Repository
 date: 2016-10-12
 ---
+_Need to see the CR Status or CR type? Unfortunately, the default setting doesn't allow you to so why not just create your own column preference? Simply follow the steps below to find out how to do it._
+
 **Create A New Column Preference**
 
 <table>

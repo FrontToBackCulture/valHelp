@@ -4,6 +4,8 @@ title: "Repository Data Filter"
 collection: Repository
 date: 2016-10-12
 ---
+_It's difficult sifting through all that data. Sometimes, some data may just be unecessary for you at the moment so how do you view only the relevant data? Just create a data filter so you only see what you require and you don't have to spend time reading through the ones you don't need._
+
 **Create a Repository Data Filter**
 
 <table>
