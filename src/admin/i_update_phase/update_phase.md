@@ -5,6 +5,7 @@ collection: Admin
 date: 2016-10-12
 
 ---
+_Assigned the wrong repositories? Prehaps, you've made a mistake in the description. With VAL, you can simply edit your phase by following the steps below._
 
 <table>
 <tr>

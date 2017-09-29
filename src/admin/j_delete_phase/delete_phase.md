@@ -5,6 +5,7 @@ collection: Admin
 date: 2016-10-12
 
 ---
+_The phase is no longer in progress? Or, maybe, it's just no longer relevant. To delete a project, simply follow the steps below._
 
 <table>
 <tr>

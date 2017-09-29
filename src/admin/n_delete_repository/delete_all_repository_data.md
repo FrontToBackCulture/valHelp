@@ -1,6 +1,6 @@
 ---
 layout: repository.html
-title: "Delete All Repository Data"
+title: "Delete Repository"
 collection: Repository
 date: 2016-10-12
 ---
@@ -11,7 +11,7 @@ _What if you need to an entire repository? Well, the good news is : there's no n
 <td width="50px"></td>
 <td width="700px">
 <video width="700" height="525" controls>
-	<source src="/assets/video/Repo/How_to_delete_all_repository_data.mp4" type="video/mp4">
+	<source src="/assets/video/Repo/How_to_delete_repository.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 </td>
