@@ -4,6 +4,7 @@ title: "Bulk Criteria Change"
 collection: Dashboard
 date: 2016-10-12
 ---
+_Need to change all the criteria of your widgets? Or maybe just a certain criteria to another one. Simply follow these steps to change multiple widgets at the same time._
 
 <table>
 <tr>
