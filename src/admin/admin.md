@@ -44,3 +44,13 @@ D. Phase
 	1. [Add A Phase](/admin/h_add_phase/creating_a_phase)
 	2. [Update A Phase](/admin/i_update_phase/update_phase)
 	3. [Delete A Phase](/admin/j_delete_phase/delete_phase)
+
+E. Organisation
+	1. [Add An Organisation](/admin/q_add_org/creating_a_org)
+	2. [Update An Organisation](/admin/r_update_org/update_org)
+	3. [Delete An Organisation](/admin/s_delete_org/delete_org)
+
+F. Repository
+	1. [Add A Repository](/admin/k_add_repository/add_repo)
+	2. [Update A Repository](/admin/m_update_repository/update_repo)
+	3. [Delete A Phase](/admin/n_delete_repository/delete_all_repository_data)
