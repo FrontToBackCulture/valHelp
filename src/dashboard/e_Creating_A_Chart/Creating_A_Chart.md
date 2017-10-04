@@ -137,3 +137,22 @@ _Need to view the percentage of work done? Well, you can just add a pie chart. T
 15. Choose a criteria.
 16. Choose a repository field to link. (note that the field should be the same one as the one chosen in step 9.)
 17. Click save.
+
+---
+**Edit a Chart**
+
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/Dashboard/how_to_edit_a_chart.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
+1. Click on the three dots on the top right of the chart you want to edit.
+2. Make changes where neccesary.
+3. Click 'save'.

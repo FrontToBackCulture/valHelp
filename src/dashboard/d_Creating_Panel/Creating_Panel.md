@@ -1,9 +1,10 @@
 ---
 layout: dashboard.html
-title: "Add a Panel"
+title: "Manage Panels"
 collection: Dashboard
 date: 2016-10-12
 ---
+**Add A Panel**
 
 <table>
 <tr>
@@ -33,3 +34,22 @@ date: 2016-10-12
 12. Click on the 'positions' dropdown and select 'bottom'.
 13. Repeat steps 8-10.
 14. Click save.
+
+---
+**Edit A Panel**
+
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/Dashboard/how_to_edit_a_panel.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
+1. Click on the three dots on the top right of the panel you want to edit.
+2. Make changes where neccesary.
+3. Click 'save'.
