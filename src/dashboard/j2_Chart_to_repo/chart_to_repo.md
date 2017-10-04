@@ -22,3 +22,5 @@ _Need to access the data in your bar graph or line? Well, the good news is: ther
 2. A pop up will appear.
 3. Click on the link in the pop up.
 4. You will, now, be led to the repository page (which contains the data in the chart you click on).
+
+*Make sure you allow pop-ups on your device before attempting this feature.
