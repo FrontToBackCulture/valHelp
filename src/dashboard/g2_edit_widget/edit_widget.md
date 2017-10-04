@@ -1,6 +1,6 @@
 ---
 layout: dashboard.html
-title: "Edit a Widget"
+title: "Make Changes to a Widget"
 collection: Dashboard
 date: 2016-10-12
 ---
