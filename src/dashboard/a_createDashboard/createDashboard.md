@@ -1,9 +1,10 @@
 ---
 layout: dashboard.html
-title: "Create Dashboard"
+title: "Manage a Dashboard View"
 collection: Dashboard
 date: 2016-10-12
 ---
+**Create a Dashboard View**
 _Before you can begin customising your dashboard, you need to know how to create one._
 
 <table>
