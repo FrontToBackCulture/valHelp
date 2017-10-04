@@ -6,7 +6,28 @@ date: 2016-10-12
 
 ---
 _Looking for a single record in a sea of repository is ardous and also quite impossible. As such, VAL allows you to search for the records you need. Simply read the steps below to find out how._
+---
 
+**Project, Phase, Repository & Date**
+_Before you begin scrolling through your repository, you must first choose the project, phase and repository table that you would like to view._
+
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/Repo/Project_phase_repo.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
+1.	Click on ‘Project’ dropdown tab and choose the project that you would like to view.
+2.  Click on the 'Phase' dropdown and choose the phase you would like to view.
+3.  Click on the 'Repository' dropdown and choose the repository table that you would like to view.
+4.  Click on the 'Date' dropdown and choose the date that you would like to view.
+---
 **Search Repository Data**
 
 <table>
