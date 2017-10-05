@@ -25,4 +25,4 @@ _Upload something and realise you made a fatal mistake? Well, not to worry. With
 5.	Choose the repository that you would like to revert.
 6.	Click on ‘Revert Data’.
 
-_Click_ [here](repository/h_imporrRepo/importRepo) _to learn how to import repository from JIRA and from
+_Click_ [here](repository/h_importRepo/importRepo) _to learn how to import repository from JIRA and from
