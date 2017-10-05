@@ -99,6 +99,7 @@ _Made a mistake in the description? With VAL, you can simply edit your repositor
 7.  Click 'Save'.
 
 ---
+**Delete Repository from Repo Creation**
 _What if you need to an entire repository? Well, the good news is : there's no need to delete each record indivisually. Simply follow these steps to delete an entire repository at once._
 
 <table>
