@@ -1,6 +1,6 @@
 ---
 layout: repository.html
-title: "New Column Preference"
+title: "Column Preference"
 collection: Repository
 date: 2016-10-12
 ---
@@ -35,7 +35,7 @@ _Need to see the CR Status or CR type? Unfortunately, the default setting doesn'
 <td width="50px"></td>
 <td width="700px">
 <video width="700" height="525" controls>
-	<source src="/assets/video/Repo/How_to_apply_your_coulumn_preference.mp4" type="video/mp4">
+	<source src="/assets/video/Repo/How_to_apply_your_column_preference.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 </td>
@@ -45,3 +45,27 @@ _Need to see the CR Status or CR type? Unfortunately, the default setting doesn'
 
 1. Click on the 'Choose a Column template' dropdown.
 2. Choose a column preference.
+
+---
+**Set Column Preference as Default**
+
+<table>
+<tr>
+<td width="50px"></td>
+<td width="700px">
+<video width="700" height="525" controls>
+	<source src="/assets/video/Repo/How_to_set_column_preference_as_default.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+</td>
+<td width="50px"></td>
+</tr>
+</table>
+
+1. Click on the 'Admin' tab on the top menu.
+2. Click on 'Val Admin'.
+3. Click on the 'Repo Views' tab.
+4. Make sure you are on the 'Column Templates' tab.
+5. Choose the repository that you want to set the column template as default in.
+6. Click on 'set as default'.
+7. Your Column Preference is now your default preference.
