@@ -13,7 +13,7 @@ Welcome to Repository!
 <td width="50px"></td>
 <td width="700px">
 <video width="700" height="525" controls>
-	<source src="/assets/video/repo/repo.mp4" type="video/mp4">
+	<source src="/assets/video/repo/Repository.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 </td>
@@ -28,14 +28,14 @@ The repository is the central location where all data is stored. Here, you can a
 
 A. Basics
   1. [Add Repository Record](/repository/a_Add_repository_record/Add_repository_record)
-  2. [Update Repository Record](/repository/b_Update_repository_record/Update_repository_record)
-  3. [Delete Repository Record](/repository/c_Delete_repository_record/Delete_repository_record)
-  4. [View Repository](/repository/g_viewRepo/viewRepo)
+  2. [Update Repository Record](/repository/b_edit_repo_record/edit_repo_record)
+  3. [Delete Repository Record](/repository/b2_delete_repository_record/delete_repository_record)
+  4. [View Repository](/repository/d_viewRepo/viewRepo)
 
 B. Filters
   1. [Repository Column Template](/repository/e_Create_repository_column_template/Create_repository_column_template)
   2. [Repository Data Filter](/repository/f_Create_repository_data_filter/Create_repository_data_filter)
 
 C. Others
-  1. [Update Traceability Linkage](/repository/b2_Updatetraceabilitylinkage/Update_traceability_linkage)
-  2. [Import Repository](repository/h_imporrRepo/importRepo)
+  1. [Import Repository](repository/h_importRepo/importRepo)
+	2. [Reveal Drilldown](repository/i_Reveal_drilldown/reveal_drilldown)
