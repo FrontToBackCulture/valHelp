@@ -1,6 +1,6 @@
 ---
 layout: repository.html
-title: "Managing Repository Records"
+title: "Update Repository Records"
 collection: Repository
 date: 2016-10-12
 ---
@@ -112,3 +112,5 @@ _Need to add a new data into the system? Well, you just have to follow these sim
 3.  Click on the 'edit' icon.
 4.  Edit what is in the 'Created Date with Time' field.
 5.  Click 'Update'.
+
+---
