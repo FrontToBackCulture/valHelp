@@ -34,7 +34,7 @@ _Need to add a new data into the system? Well, you just have to follow these sim
 <td width="50px"></td>
 <td width="700px">
 <video width="700" height="525" controls>
-	<source src="/assets/video/Repo/how_to_update_repo_record_refjira.mp4" type="video/mp4">
+	<source src="/assets/video/Repo/how_to_update_repo_record_ref_jira.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 </td>
