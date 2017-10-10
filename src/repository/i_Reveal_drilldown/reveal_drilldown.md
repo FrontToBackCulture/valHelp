@@ -17,4 +17,6 @@ date: 2016-10-12
 <td width="50px"></td>
 </tr>
 </table>
-1.	Click on the links under the 'Ref Jira' column.
+1.	Click on ‘Repositories’ dropdown tab on the top menu and choose the repository that you want to see.
+2.	Click on the ‘more dropdown’ to select which criterias you want to see.
+3.	Click on the links under the 'Ref Jira' column.
