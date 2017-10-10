@@ -79,6 +79,8 @@ date: 2016-10-12
 5.  Make any necessary changes.
 6.  Click 'Update'.
 
+_If you need more specific help with editing repository tables, click_ [here](/admin/d2_updating_repo_tables/updating_repo_tables).
+
 ---
 **Delete Repository Table**
 
